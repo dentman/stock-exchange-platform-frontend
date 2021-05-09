@@ -2,7 +2,8 @@
 
 This is a single page web application created in React. This repository contains the UI, all data presented on the site are retieved from our dedicated API.
 
-Back-end repository is available here: https://github.com/dentman/stock-exchange-platform-backend.git
+Back-end repository is available here: https://github.com/dentman/stock-exchange-platform-backend.git   
+Please check out the deployed app [here](https://stock-exchange-platform.herokuapp.com).
 
 # HOW TO RUN
 
